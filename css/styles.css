@@ -68,11 +68,11 @@ a {
 	z-index: 5;
 }
 */
-/*
+
 a:hover {
-	color: yellow;	
+	color: #668CB2;	
 }
-*/
+
 
 .links {
     -webkit-animation: pulsate 2.5s ease-in-out;
